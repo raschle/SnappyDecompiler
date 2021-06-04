@@ -3,7 +3,7 @@ Decompile Synapse Wireless SNAPpy SPY files back to python bytecode
 
 ## Prerequisite
 - Python 2.7
-pip install --extra-index-url https://update.synapse-wireless.com/pypi snaplib -t .
+- pip install --extra-index-url https://update.synapse-wireless.com/pypi snaplib -t .
     
 ## Usage
 python snappyDecompiler.py sample.spy
